@@ -798,6 +798,7 @@ namespace Review
                 Console.WriteLine(i + " " + Math.Pow(i,2) + " " + Math.Pow(i,3));
             }
 
+            Console.WriteLine("teste git");
         }
        
     }
