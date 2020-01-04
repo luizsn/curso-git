@@ -1,0 +1,11 @@
+F:\Curso C#\Review\Review\bin\Debug\netcoreapp3.0\Review.exe
+F:\Curso C#\Review\Review\bin\Debug\netcoreapp3.0\Review.deps.json
+F:\Curso C#\Review\Review\bin\Debug\netcoreapp3.0\Review.runtimeconfig.json
+F:\Curso C#\Review\Review\bin\Debug\netcoreapp3.0\Review.runtimeconfig.dev.json
+F:\Curso C#\Review\Review\bin\Debug\netcoreapp3.0\Review.dll
+F:\Curso C#\Review\Review\bin\Debug\netcoreapp3.0\Review.pdb
+F:\Curso C#\Review\Review\obj\Debug\netcoreapp3.0\Review.AssemblyInfoInputs.cache
+F:\Curso C#\Review\Review\obj\Debug\netcoreapp3.0\Review.AssemblyInfo.cs
+F:\Curso C#\Review\Review\obj\Debug\netcoreapp3.0\Review.dll
+F:\Curso C#\Review\Review\obj\Debug\netcoreapp3.0\Review.pdb
+F:\Curso C#\Review\Review\obj\Debug\netcoreapp3.0\Review.csprojAssemblyReference.cache
